@@ -1,4 +1,4 @@
-package Arrays;
+package Strings;
 
 public class userid {
     public static void main(String[] args) {
